@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to MJ's GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MJ-SEO/MJ-SEO.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요 한동대학교에서 컴퓨터공학과 경영을 복수전공하고 있는 서명준이라고 합니다.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## MY Interest
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/MJ-SEO/MJ-SEO.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+경영과 컴퓨터공학 복수전공을 통한 기술경여에 관심이 많고, 그 외에도 개발자나 기획쪽에도 관심이 많습니다.
